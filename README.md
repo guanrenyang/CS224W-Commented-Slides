@@ -4,7 +4,7 @@
 
 The repository contains commented sildes and completed colabs of course CS224W: Machine Learning with Graphs in Stanford University. 
 
-## Contents
+## Current Contents
 
 **Slides**:
 1. 01 Introduction; Machine Learning for Graphs
@@ -24,6 +24,6 @@ The original slides are on the [course homepage](http://web.stanford.edu/class/c
 
 The colabs are done by myself and meet the task requirements. I haven't got an official answer yet, so they may not provide the optimal solutions and there is still a lot of room for optimization.
 
-Slides and colabs will continue to be updated with my learning process.
+Slides and colabs continue to be updated with my learning process.
 
 If there exists any infringement, please contact me and I will delete the file as soon as possible.
