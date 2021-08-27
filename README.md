@@ -7,11 +7,13 @@ The repository contains commented sildes and completed colabs of course CS224W: 
 ## Current Contents
 
 **Slides**:
+
 1. 01 Introduction; Machine Learning for Graphs
 2. 02 Traditional Methods for ML on Graphs
 3. 03 Node Embeddings
 4. 04 Link Analysis: PageRank
 5. 06 Label Propagation for Node Classification
+6. 07 Graph Neural Networks 2: Design Space
 
 **Colabs**:
 * colab 0
